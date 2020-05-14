@@ -9,43 +9,43 @@ export class ProductService {
       id: 1,
       name: 'Modern Chair',
       price: 500,
-      image: 'assets/bg-img/6.jpg',
+      image: 'assets/bg-img/chare-4.jpg',
       rating: 4
     },
     {
       id: 2,
-      name: 'Modern Chair',
+      name: 'Modern Tables',
       price: 1500,
-      image: 'assets/bg-img/7.jpg',
+      image: 'assets/bg-img/table4.jpg',
       rating: 5
     },
     {
       id: 3,
-      name: 'Modern Chair',
+      name: 'Modern Beds',
       price: 500,
-      image: 'assets/bg-img/8.jpg',
+      image: 'assets/bg-img/bed4.jpg',
       rating: 4
     },
     {
       id: 4,
-      name: 'Modern Chair',
+      name: 'Modern Shofas',
       price: 500,
-      image: 'assets/bg-img/1.jpg',
+      image: 'assets/bg-img/shofa5.jpg',
       rating: 5
     },
 
     {
       id: 5,
-      name: 'Modern Chair',
+      name: 'Modern Lamp',
       price: 500,
-      image: 'assets/bg-img/2.jpg',
+      image: 'assets/bg-img/lamp2.jpg',
       rating: 3
     },
     {
       id: 6,
-      name: 'Modern Chair',
+      name: 'Modern Bookself',
       price: 500,
-      image: 'assets/bg-img/3.jpg',
+      image: 'assets/bg-img/bookself4.jpg',
       rating: 4
     }
   ];
