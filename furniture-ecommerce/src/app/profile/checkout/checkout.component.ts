@@ -45,7 +45,7 @@ export class CheckoutComponent implements OnInit {
         img: 'assets/bg-img/7.jpg',
         productId: 1,
         quantity: 1,
-        title: 'Modern Rocking Chair',
+        title: 'Modern Rocking Table',
         price: 540,
         active: true
       },
